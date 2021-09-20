@@ -1,4 +1,4 @@
-# Golyat Security Guard
+# Golyat Security Guard Botu
 
 Açıklama:
 
