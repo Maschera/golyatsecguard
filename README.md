@@ -22,9 +22,9 @@ Reklam Koruma (Discord Reklamlarını Engelleme) <br>
 Spam Koruma (Spam Girişleri Engelleme) <br>
 Sağ Tık Ban/Kick/Rol Koruma (İzinsiz Eylemleri Engelleme) <br>
 Anti Bot Sistemi (İzinsiz Bot Girişlerini Engelleme) <br>
+Ayarlanabilir Ceza Sistemi (Ban, Kick ya da Jail - Seçim senin!) <br>
 Whitelist Sistemi (Güvenilir Liste Özelliği) <br>
 Raporlama Sistemi (Mesaj Raporlama Sistemi) <br>
-Ayarlanabilir Ceza Sistemi (Ban, Kick ya da Jail - Seçim senin!) <br>
 
 Nasıl kullanılıyor?
 
