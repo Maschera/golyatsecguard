@@ -1,5 +1,7 @@
 # Golyat Security Guard Botu
 
+[TR]
+
 Açıklama:
 
 Siber güvenlik sektöründe hizmet veren bir topluluk/firma olarak Discord kullanıcıları için geliştirdiğimiz güvenlik botumuzu sizlere sunmaktan gurur duyuyoruz.
@@ -8,7 +10,7 @@ Golyatsec Guard ismiyle hizmetinize sunduğumuz botumuz en güncel teknoloji ve 
 
 Tanıtım:
 
-Botumuz en güncel v13 altyapısına sahip olduğundan dolayı Discord ile iyi geçinmesini istiyoruz. Aynı zamanda siber güvenlik ve gizliliğiniz de bizim için 1. derece öneme sahip. Bu bağlamda "prefix" sistemini kullanmıyoruz. Resmi olarak desteklenen "slash" commands sistemini kullanıyoruz.
+Botumuz en güncel v13 altyapısına sahip olduğundan dolayı Discord ile iyi geçinmesini istiyoruz. Aynı zamanda siber güvenlik ve gizliliğiniz de bizim için 1. derecede öneme sahip. Bu bağlamda "prefix" sistemini kullanmıyoruz. Resmi olarak desteklenen "slash" commands sistemini kullanıyoruz.
 
 Neler sunuyor?
 
@@ -32,11 +34,48 @@ Nasıl kullanılıyor?
 /whitelist - Üyeleri (ya da botları) güvenilir listeye eklemen için gerekli komut. <br>
 /bilgi - Hangi koruma modüllerinin açık olduğunu, whitelist'i, aktif ceza durumunu ve ping durumunu görebileceğin genel bilgi arayüzünü sağlayan komut. <br>
 
-Davet Bağlantısı: https://www.golyatsec.com/guardbot
+Siber güvenliğiniz için <3 ile yaratıldı! 
 
-İletişim: Maschera#6666
+Tüm hakları saklıdır. (Golyatsec.com)<br>
+Your Cyber Guardian
 
-Siber güvenliğiniz için <3 ile yaratıldı!
+<p>
 
-Tüm hakları saklıdır. (Golyatsec.com) <br>
+[ENG]
+
+Explanation:
+
+As a community/company serving in the cyber security industry, we are proud to present you our security bot that we have developed for Discord users.
+
+Our bot, which we offer under the name Golyatsec Guard, has been prepared for your needs with the most up-to-date technology and software systems. It is also designed to focus on your server security.
+
+Introduction:
+
+Since our bot has the most up-to-date v13 infrastructure, we want it to get along well with Discord. At the same time, your cyber security and privacy are of primary importance to us. We do not use the "prefix" system in this context. We use the officially supported "slash" commands system.
+
+What does it offer?
+
+Server Protection (URL, Server Name and Server Image) <br>
+Channel Protection (Create, Delete, Edit) <br>
+Role Protection (Create, Delete, Edit) <br>
+Emoji Protection (Create, Delete, Edit) <br>
+Ad Protection (Block Discord Ads) <br>
+Spam Protection (Blocking Spam Entries) <br>
+Right Click Ban/Kick/Role Protection (Block Unauthorized Actions) <br>
+Anti Bot System (Blocking Unauthorized Bots) <br>
+Adjustable Punishment System (Ban, Kick or Jail - the choice is yours!) <br>
+Whitelist System (Trusted List Feature) <br>
+Reporting System (Message Reporting System) <br>
+
+How is it used?
+
+/kurulum - Installs the bot without any problems. <br>
+/ceza-ayarla  - You can specify what type of punishment the bot should give. <br>
+/koruma-ayarla - You can choose which protection modules the bot can enable. <br>
+/whitelist - Required command to whitelist members (or bots). <br>
+/bilgi - Command that provides a general information interface where you can see which protection modules are open, whitelist, active penalty status and ping status. <br>
+
+Created with <3 for your cyber security!
+
+All rights reserved. (Golyatsec.com) <br>
 Your Cyber Guardian
