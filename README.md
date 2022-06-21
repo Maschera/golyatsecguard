@@ -1,5 +1,10 @@
 # Golyatsec Guard Bot (v3.8) (28.06.2022)
 
+<b>Golyatsec.com</b>: https://golyatsec.com/
+<b>Top.gg</b>: https://top.gg/bot/874082406343278623
+
+You can visit our website & top.gg for Turkish introduction and other information.
+
 <b>Information:</b>
 
 As a company serving in the cyber security industry, we are proud to present you our security bot that we have developed for Discord users.
@@ -37,8 +42,6 @@ Since our bot has the most up-to-date v13 infrastructure, we want it to get alon
 +Top.gg Api Support <br>
 
 Our project has been approved by Top.gg and officially verified by Discord.
-
-You can visit our website for Turkish introduction and other information. (golyatsec.com)
 
 Created with <3 for your cyber security!
 
