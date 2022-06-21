@@ -1,6 +1,6 @@
 # Golyatsec Guard Bot (v3.8) (28.06.2022)
 
-<b>Golyatsec.com</b>: https://golyatsec.com/
+<b>Golyatsec.com</b>: https://golyatsec.com/ <br>
 <b>Top.gg</b>: https://top.gg/bot/874082406343278623
 
 You can visit our website & top.gg for Turkish introduction and other information.
