@@ -10,7 +10,7 @@ Our bot, which we offer under the name Golyatsec Guard, has been prepared for yo
 
 Since our bot has the most up-to-date v13 infrastructure, we want it to get along well with Discord. At the same time, your cyber security and privacy are of primary importance to us. We do not use the "prefix" system in this context. We use the officially supported "slash" commands system.
 
-What does it offer?
+<b>What does it offer?</b>
 
 +Server Protection Module <br>
 +Channel Protection Module <br>
@@ -38,7 +38,7 @@ What does it offer?
 
 Our project has been approved by Top.gg and officially verified by Discord.
 
-You can visit our website for Turkish explanation and other information.
+You can visit our website for Turkish introduction and other information. (golyatsec.com)
 
 Created with <3 for your cyber security!
 
