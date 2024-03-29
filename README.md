@@ -1,7 +1,5 @@
 # Golyatsec Guard Bot (v3.9.9)
 
-![Golyatsec Guard](https://golyatsec.com/wp-content/uploads/2023/02/newlogo_golyat.png)
-
 ## Description:
 
 As a company serving in the cyber security industry, we are proud to present you our security bot that we have developed for Discord users.
