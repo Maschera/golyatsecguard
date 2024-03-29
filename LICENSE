@@ -1,21 +1,25 @@
-MIT License & Golyat Security Licence (All Rights Reserved)
+Confidentiality and Ownership License Agreement
 
-Copyright (c) 2021 Berkay Ahmet DAĞ (Golyatsec.com)
+Copyright © [Year] Golyatsec
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. **Confidentiality**: 
+   The Software and all related information, documents, and materials provided by Golyatsec ("the Company") to any individual or entity ("the Recipient") under this agreement are considered confidential and proprietary to the Company. The Recipient agrees to treat all such information as confidential and shall not disclose, distribute, or reproduce such information without the prior written consent of the Company.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. **Ownership**:
+   The Software and all related intellectual property rights, including but not limited to copyright, patent, trademark, trade secret, and any other proprietary rights, shall remain the exclusive property of the Company. The Recipient acknowledges that it has no ownership rights or interests in the Software or any related intellectual property rights.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. **Usage**:
+   The Company grants the Recipient a limited, non-exclusive, non-transferable license to use the Software solely for the purposes agreed upon between the parties. The Recipient shall not modify, reverse engineer, decompile, disassemble, or create derivative works based on the Software without the prior written consent of the Company.
+
+4. **No Warranty**:
+   THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE COMPANY BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. **Governing Law**:
+   This Agreement shall be governed by and construed in accordance with the laws of [Jurisdiction], without regard to its conflicts of law provisions.
+
+6. **Entire Agreement**:
+   This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior and contemporaneous agreements and understandings, whether written or oral.
+
+By using the Software, the Recipient agrees to be bound by the terms and conditions of this License Agreement.
+
+[Golyat Security]
