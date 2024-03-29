@@ -1,6 +1,6 @@
 # Golyatsec Guard Bot (v3.9.9)
 
-![Golyatsec Logo]((https://golyatsec.com/wp-content/uploads/2023/02/newlogo_golyat.png))
+![Golyatsec Logo](https://golyatsec.com/wp-content/uploads/2023/02/newlogo_golyat.png)
 
 ## Description:
 
